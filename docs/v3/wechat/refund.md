@@ -21,7 +21,7 @@ $order = [
     ],
 ];
 
-$result = Pay::wecaht()->refund($order);
+$result = Pay::wechat()->refund($order);
 ```
  
 ## 订单配置参数
