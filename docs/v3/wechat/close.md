@@ -17,7 +17,7 @@ $order = [
 
 // $order = '1514027114';
 
-$result = Pay::wecaht()->close($order);
+$result = Pay::wechat()->close($order);
 ```
 
 
